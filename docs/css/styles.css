@@ -31,3 +31,7 @@ h6{
 #header li{
     display: inline;
 }
+
+#footer {
+    text-align: center;
+}
